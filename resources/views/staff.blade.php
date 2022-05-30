@@ -122,19 +122,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-taijah.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Taijah Lamar</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Taijah Lamar began her serious dance training at the age of fourteen at Southaven Dance Company. While at Southaven Dance Company she studied styles such as: ballet, contemporary, hip hop, jazz, tap, and acrobatics. She was on the competitive team for three years and won numerous awards throughout her competitive career. Lamar then began her collegiate dance career at Belhaven University where she graduated with a Bachelor of the Arts in Dance and is now dancing as a company member for Kinetic Etchings.
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-taijah.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Taijah Lamar</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Taijah Lamar began her serious dance training at the age of fourteen at Southaven Dance Company. While at Southaven Dance Company she studied styles such as: ballet, contemporary, hip hop, jazz, tap, and acrobatics. She was on the competitive team for three years and won numerous awards throughout her competitive career. Lamar then began her collegiate dance career at Belhaven University where she graduated with a Bachelor of the Arts in Dance and is now dancing as a company member for Kinetic Etchings.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
@@ -164,19 +164,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-natalya.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Natalya Watson</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Bio Coming Soon!
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-natalya.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Natalya Watson</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Bio Coming Soon!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
     </div>
 
