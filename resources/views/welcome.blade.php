@@ -160,7 +160,7 @@
                             <br><strong>Mission Statement</strong>
                             <br>We serve the community through the giving of our time and talents. We are role models for the younger students in and outside of the classroom at the dance studio.
                             <br>
-                            <br>To Sign up as a Raising the Barre Candidate or as a Parent Volunteer please complete and submit the appropriate application.  Please email lcdanceco@yahoo.com for an application.
+                            <br>To Sign up as a Raising the Barre Candidate or as a Parent Volunteer please complete and submit the appropriate application.  Please email info@lcdanceco.com for an application.
                         </p>
                         <img src="/images/raising-the-barre.jpg" alt="older dancers at barre" class="img-fluid shadow rounded">
                     </div>

@@ -10,7 +10,7 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>
-            lcdanceco@yahoo.com
+            info@lcdanceco.com
         </li>
     </ul>
 </div>

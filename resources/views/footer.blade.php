@@ -33,7 +33,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
-                            <a href="mailto:lcdanceco@yahoo.com" style="color: black; text-decoration: none;">lcdanceco@yahoo.com</a>
+                            <a href="mailto:info@lcdanceco.com" style="color: black; text-decoration: none;">info@lcdanceco.com</a>
                         </li>
                     </ul>
                 </div>
