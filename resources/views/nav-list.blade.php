@@ -3,25 +3,25 @@
         <a class="nav-link" href="/">Home</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/about">about</a>
+        <a class="nav-link" href="/about">About Us</a>
+    </li>
+{{--    <li class="nav-item mx-2">--}}
+{{--        <a class="nav-link" href="/staff">staff</a>--}}
+{{--    </li>--}}
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/parents">Current Members</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/staff">staff</a>
+        <a class="nav-link" href="/events">Summer</a>
     </li>
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/parents">parents</a>
-    </li>
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/events">events</a>
-    </li>
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/tuition">tuition</a>
-    </li>
+{{--    <li class="nav-item mx-2">--}}
+{{--        <a class="nav-link" href="/tuition">tuition</a>--}}
+{{--    </li>--}}
     <li class="nav-item mx-2">
         <a class="nav-link" href="https://sites.google.com/view/lcdcrecitalinformation" target="_blank">recital</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/classes">classes</a>
+        <a class="nav-link" href="/classes">2022-2023 Season</a>
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="/competition-teams">competition</a>

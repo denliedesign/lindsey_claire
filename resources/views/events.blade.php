@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-5">Events</h1>
+        <h1 class="text-center my-5">Summer</h1>
         <p class="text-center">
             <a href="/images/calendar.pdf" target="_blank">View Our Full Calendar</a>
         </p>

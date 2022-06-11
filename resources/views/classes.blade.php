@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-5">Classes & Schedule</h1>
+        <h1 class="text-center my-5">2022-2023 Season<br>Classes & Schedule</h1>
         <p class="text-center">
             <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2016%2F2017" target="_blank">View Class Schedule</a>
         </p>
@@ -114,13 +114,13 @@
         </p>
     </div>
     <div class="container my-5">
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-            <div class="">
-                <p class="text-center rounded shadow p-3" style="height: 100%;">
-                    <strong>Tuition</strong><br>
-                    <a href="/tuition">See Tuition Rates & Details</a>
-                </p>
-            </div>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+{{--            <div class="">--}}
+{{--                <p class="text-center rounded shadow p-3" style="height: 100%;">--}}
+{{--                    <strong>Tuition</strong><br>--}}
+{{--                    <a href="/tuition">See Tuition Rates & Details</a>--}}
+{{--                </p>--}}
+{{--            </div>--}}
             <div class="">
                 <p class="text-center rounded shadow p-3" style="height: 100%;">
                     <strong>Dresscode</strong><br>
@@ -136,7 +136,7 @@
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row mt-4">
             <div class="">
                 <p class="text-left rounded shadow p-3" style="height: 100%;">
                     <strong>Tumble Placement Levels/Skills Chart</strong><br>
@@ -156,6 +156,46 @@
         </div>
         <div class="d-flex justify-content-center mt-5">
             <img src="/images/dress-code.png" alt="dress code" class="img-fluid">
+        </div>
+    </div>
+
+    <div class="container">
+        <h1 class="text-center my-5">Tuition</h1>
+        <div class="row" style="color: white;">
+            <div class="col-sm">
+                <div class="gradient-splash p-4 my-4">
+                    <p>
+                        All tuition payments will be withdrawn automatically from your account. Please fill out an
+                        <a href="/images/parents-ach-form.pdf" target="_blank" class="text-white">ACH Form</a> and read more about this policy in our
+                        <a href="/images/parents-policy-handbook.pdf" target="_blank" class="text-white">LCDC Policy Handbook</a>.
+                    </p>
+                </div>
+                <div class="gradient-splash p-4 my-4">
+                    <p>
+                        There is a $5 discount for any additional family members enrolled in classes.
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="gradient-splash p-4 my-4">
+                    <h3>Monthly Tuition Rates</h3>
+                    <p>
+                        30 minutes - $43
+                        <br>45 minutes - 1 hour - $66
+                        <br>1:15 - 2 hours $104
+                        <br>2:15 - 3 hours $127
+                        <br>3:15 - 4 hours $145
+                        <br>4:15 - 5 hours $169
+                        <br>5:15- 6 hours $193
+                        <br>6:15 - 7 hours $205
+                        <br>7:15 - 8 hours $229
+                        <br>8:15 - 9 hours - $247
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <img src="/images/payment-schedule.jpg" alt="payment schedule" class="img-fluid">
         </div>
     </div>
 

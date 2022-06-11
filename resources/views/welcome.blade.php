@@ -4,8 +4,8 @@
     <div class="gradient-splash">
         <div id="primary-bg">
             <div class="color-filter-gradient-black"></div>
-            <h2 id="primary-txt-mobile" class="d-md-none">dance lessons that teach life lessons</h2>
-            <h2 id="primary-txt" class="d-none d-md-block">dance lessons that teach life lessons</h2>
+            <h2 id="primary-txt-mobile" class="d-md-none">dance & tumble lessons that teach life lessons</h2>
+            <h2 id="primary-txt" class="d-none d-md-block">dance & tumble lessons that teach life lessons</h2>
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-kapa-redish primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-redish primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
@@ -36,9 +36,9 @@
 
         <div id="vision" class="text-center text-white">
             <div class="container">
-                <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
+                <h2>We Have Built a Reputation for Excellence in Dance & Tumble Instruction</h2>
                 <p>
-                    From your child’s first class to their graduation performance, LCDC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                    From your child’s first class to their graduation performance, LCDC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                 </p>
             </div>
         </div>
@@ -69,7 +69,7 @@
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
-            <h2 class="text-center pt-5">Dance Classes</h2>
+            <h2 class="text-center pt-5">Dance & Tumble Classes</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <img src="/images/classes-baby-and-me.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 0; width: 100%;">

@@ -21,9 +21,9 @@ Route::get('/about', function () {
     return view('/about');
 });
 
-Route::get('/staff', function () {
-    return view('/staff');
-});
+//Route::get('/staff', function () {
+//    return view('/staff');
+//});
 
 Route::get('/parents', function () {
     return view('/parents');
