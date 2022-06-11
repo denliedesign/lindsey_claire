@@ -17,25 +17,25 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/about', function () {
-    return view('/about');
+Route::get('/about-us', function () {
+    return view('/about-us');
 });
 
 //Route::get('/staff', function () {
 //    return view('/staff');
 //});
 
-Route::get('/parents', function () {
-    return view('/parents');
+Route::get('/current-members', function () {
+    return view('/current-members');
 });
 
-Route::get('/events', function () {
-    return view('/events');
+Route::get('/summer', function () {
+    return view('/summer');
 });
 
-Route::get('/tuition', function () {
-    return view('/tuition');
-});
+//Route::get('/tuition', function () {
+//    return view('/tuition');
+//});
 
 Route::get('/recital', function () {
     return view('/recital');

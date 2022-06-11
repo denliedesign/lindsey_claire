@@ -3,16 +3,16 @@
         <a class="nav-link" href="/">Home</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/about">About Us</a>
+        <a class="nav-link" href="/about-us">About Us</a>
     </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/staff">staff</a>--}}
 {{--    </li>--}}
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/parents">Current Members</a>
+        <a class="nav-link" href="/current-members">Current Members</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/events">Summer</a>
+        <a class="nav-link" href="/summer">Summer</a>
     </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/tuition">tuition</a>--}}

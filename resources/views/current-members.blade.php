@@ -6,7 +6,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center my-5">Parents</h1>
+        <h1 class="text-center my-5">Current Members</h1>
         <div class="row">
             <div class="col-sm d-flex align-items-center justify-content-center">
                 <p class="text-center">
