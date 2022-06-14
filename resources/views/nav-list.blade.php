@@ -29,4 +29,7 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="/parties">parties</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/crystal-springs">crystal springs</a>
+    </li>
 </ul>

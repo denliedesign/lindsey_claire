@@ -33,6 +33,10 @@ Route::get('/summer', function () {
     return view('/summer');
 });
 
+Route::get('/crystal-springs', function () {
+    return view('/crystal-springs');
+});
+
 //Route::get('/tuition', function () {
 //    return view('/tuition');
 //});
