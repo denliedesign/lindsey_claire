@@ -69,6 +69,9 @@
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
+            <div class="d-flex justify-content-center">
+                <img src="/images/open-house-22.png" alt="open house invite" class="img-fluid">
+            </div>
             <h2 class="text-center pt-5">Dance & Tumble Classes</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">

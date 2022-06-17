@@ -176,7 +176,7 @@
                     </p>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <img src="/images/payment-schedule.jpg" alt="payment schedule" class="img-fluid">
+                    <img src="/images/parents-draft-schedule-22.jpg" alt="payment schedule" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm">
@@ -195,8 +195,8 @@
                         <tr><td>3 hours</td><td>$136</td></tr>
                         <tr><td>3 hours 15 min</td><td>$145</td></tr>
                         <tr><td>3 hours 30 min</td><td>$148</td></tr>
-                        <tr><td>3 hours 45 min</td><td>$150</td></tr>
-                        <tr><td>4 hours</td><td>$153</td></tr>
+                        <tr><td>3 hours 45 min</td><td>$151</td></tr>
+                        <tr><td>4 hours</td><td>$154</td></tr>
                         <tr><td>4 hours 15 min</td><td>$169</td></tr>
                         <tr><td>4 hours 30 min</td><td>$172</td></tr>
                         <tr><td>4 hours 45 min</td><td>$175</td></tr>

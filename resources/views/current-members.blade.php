@@ -10,15 +10,15 @@
         <div class="row">
             <div class="col-sm d-flex align-items-center justify-content-center">
                 <p class="text-center">
-                    <a href="/images/parents-membership-waiver-agreement.pdf" target="_blank">2021/2022 MEMBERSHIP AGREEMENT/LIABILITY WAIVER</a>
+                    <a href="/images/parents-membership-waiver-agreement-22.pdf" target="_blank">2021/2022 MEMBERSHIP AGREEMENT/LIABILITY WAIVER</a>
                     <br><br>
-                    <a href="/images/parents-ach-form.pdf" target="_blank">ACH FORM (AUTO DRAFT FORM)</a>
+                    <a href="/images/parents-ach-form-22.pdf" target="_blank">ACH FORM (AUTO DRAFT FORM)</a>
                     <br><br>
-                    <a href="/images/parents-draft-schedule.pdf" target="_blank">DRAFT SCHEDULE</a>
+                    <a href="/images/parents-draft-schedule-22.pdf" target="_blank">DRAFT SCHEDULE</a>
                     <br><br>
-                    <a href="/images/parents-policy-handbook.pdf" target="_blank">POLICY HANDBOOK</a>
+                    <a href="/images/parents-policy-handbook-22.pdf" target="_blank">POLICY HANDBOOK</a>
                     <br><br>
-                    <a href="/images/parents-welcome-letter.pdf" target="_blank">2021/2022 WELCOME LETTER</a>
+                    <a href="/images/parents-welcome-letter-22.pdf" target="_blank">2021/2022 WELCOME LETTER</a>
                     <br><br>
                     <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">ORDER DANCEWEAR</a>
                 </p>
