@@ -73,19 +73,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-kurt.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Kurt Koenig</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Kurt Koenig is from Terry, MS. He teaches our Tumble classes. Kurt started coaching at the age of 16 and has been coaching over 20 years. He won 2 National Titles while cheering at Mississippi College. He has worked for the National Cheerleaders Association and has coached at several local gyms. Kurt was the former owner of Mississippi Elite in Ridgeland, MS. Kurt is in his 6th year working for us at the LCDC.
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-kurt.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Kurt Koenig</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Kurt Koenig is from Terry, MS. He teaches our Tumble classes. Kurt started coaching at the age of 16 and has been coaching over 20 years. He won 2 National Titles while cheering at Mississippi College. He has worked for the National Cheerleaders Association and has coached at several local gyms. Kurt was the former owner of Mississippi Elite in Ridgeland, MS. Kurt is in his 6th year working for us at the LCDC.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
@@ -202,19 +202,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-april.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">April Lee</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        April is a dancer from Raymond, MS.  She has been dancing since the age of 3 and entered into the competition world of dance at the age of 10.  During her years of competition dance, April won several top finishes as well as scholarships and awards as a member of Lindsey Claire Dance Company. She also attended several prestigious dance intensives, including summer intensives with New Orleans Ballet Theater and New Orleans Ballet Association, both in New Orleans, LA.  She also attended summer dance intensives with the Rebelette Dance Team at the University of MS.  April received a number of scholarships from JUMP Dance Convention as well as Dance Teacher’s United.  She was a leading role in the production Dance of the Princess and the Frog, where she played Tiana, the Frog Princess.  She has traveled to New York City where she took classes at Broadway Dance Center and Alvin Ailey American Dance Theater and also performed at the Lincoln Center.  April graduated in May of 2019 and is currently attending Hinds Community College, where she is a member of the Hi-Steppers Dance Team.
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-april.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">April Lee</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        April is a dancer from Raymond, MS.  She has been dancing since the age of 3 and entered into the competition world of dance at the age of 10.  During her years of competition dance, April won several top finishes as well as scholarships and awards as a member of Lindsey Claire Dance Company. She also attended several prestigious dance intensives, including summer intensives with New Orleans Ballet Theater and New Orleans Ballet Association, both in New Orleans, LA.  She also attended summer dance intensives with the Rebelette Dance Team at the University of MS.  April received a number of scholarships from JUMP Dance Convention as well as Dance Teacher’s United.  She was a leading role in the production Dance of the Princess and the Frog, where she played Tiana, the Frog Princess.  She has traveled to New York City where she took classes at Broadway Dance Center and Alvin Ailey American Dance Theater and also performed at the Lincoln Center.  April graduated in May of 2019 and is currently attending Hinds Community College, where she is a member of the Hi-Steppers Dance Team.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         {{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
         {{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
