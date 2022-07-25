@@ -73,9 +73,10 @@
     © 2022 Lindsey Claire Dance Company
 </div>
 <p id="credit" class="text-center m-0" style="background: black;">
+    <a class="text-decoration-none" href="/dance-studios-jackson-ms"><small class="text-muted">Dance Studios Jackson MS</small></a>
+    &nbsp; / &nbsp;
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
-</p>
-<div style="background: black;" class="text-center pb-3">
+    &nbsp; / &nbsp;
     @guest
         <small>
             <a class="text-decoration-none text-muted" href="{{ route('login') }}">{{ __('Admin') }}</a>
@@ -87,9 +88,13 @@
                                                      document.getElementById('logout-form').submit();">
                 {{ __('Logout') }}
             </a>
-            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                @csrf
-            </form>
-        </small>
-    @endguest
+<form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+    @csrf
+</form>
+</small>
+@endguest
+    &nbsp; / &nbsp;
+</p>
+<div style="background: black;" class="text-center pb-3">
+
 </div>

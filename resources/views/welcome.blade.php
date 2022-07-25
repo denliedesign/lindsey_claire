@@ -38,7 +38,7 @@
             <div class="container">
                 <h2>We Have Built a Reputation for Excellence in Dance & Tumble Instruction</h2>
                 <p>
-                    From your child’s first class to their graduation performance, LCDC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                    From your child’s first class to their graduation performance, LCDC has dance classes in Jackson MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                 </p>
             </div>
         </div>
@@ -72,7 +72,8 @@
             <div class="d-flex justify-content-center">
                 <img src="/images/open-house-22.png" alt="open house invite" class="img-fluid">
             </div>
-            <h2 class="text-center pt-5">Dance & Tumble Classes</h2>
+            <h2 class="text-center pt-5">Tumble & Dance Classes in Jackson MS</h2>
+            <p class="text-center text-muted">Mississippi Dance in Byram, Crystal Springs, & Surrounding Areas</p>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <img src="/images/baby-and-me.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 0; width: 100%;">
@@ -273,6 +274,7 @@
     <div id="call-to-action" class="bg-white pt-5 pb-1">
         <div class="text-center pt-2">
             <h2 class="txt-kapa-redish">Be A Part Of Our <span class="txt-red">LCDC</span> Family!</h2>
+            <p class="text-center text-muted">Dance Studios Jackson MS, Byram, Crystal Springs.</p>
             {{--            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>--}}
         </div>
     </div>

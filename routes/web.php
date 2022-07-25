@@ -37,6 +37,10 @@ Route::get('/crystal-springs', function () {
     return view('/crystal-springs');
 });
 
+Route::get('/dance-studios-jackson-ms', function () {
+    return view('/dance-studios-jackson-ms');
+});
+
 //Route::get('/tuition', function () {
 //    return view('/tuition');
 //});
