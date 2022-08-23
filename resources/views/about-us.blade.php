@@ -109,7 +109,8 @@
                 <h3 class="pb-0 mb-0 text-white">Allyson McDavid</h3>
                 <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
                     <p class="m-0 p-0" style="height: 100%;">
-                        Allyson Roberston currently attends Mississippi College. She has been dancing in her hometown of Zachary, Louisiana for 6 years where she competed with her studio’s competition team for 5 years. She has a true passion for teaching young dancers and watching them grow into their personalities as young adults. Allyson is in her 4th year working for us at the LCDC.
+{{--                        Allyson Roberston currently attends Mississippi College. She has been dancing in her hometown of Zachary, Louisiana for 6 years where she competed with her studio’s competition team for 5 years. She has a true passion for teaching young dancers and watching them grow into their personalities as young adults. Allyson is in her 4th year working for us at the LCDC.--}}
+                        Allyson has been with LCDC since 2016. She currently teaches Musical Theatre, Jazz, Twinkle Stars, and Competition Team in Byram. She is also the instructor and director of our Crystal Springs location. Allyson loves working with students of all ages and helping them learn life skills while in class. She is so excited to work with your student this year!
                     </p>
                 </div>
             </div>
@@ -154,7 +155,8 @@
                 <h3 class="pb-0 mb-0 text-white">Emily Roberson</h3>
                 <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
                     <p class="m-0 p-0" style="height: 100%;">
-                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Clinton with her husband and two daughters. She is beginning her 4th year with LCDC.
+{{--                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Clinton with her husband and two daughters. She is beginning her 4th year with LCDC.--}}
+                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Raymond with her husband and two daughters. She is beginning her 6th year with LCDC.
                     </p>
                 </div>
             </div>
@@ -229,6 +231,73 @@
         {{--                </div>--}}
         {{--            </div>--}}
         {{--        </div>--}}
+
+        <div class="row my-5 p-4 rounded shadow gradient-splash">
+            <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                <img src="/images/staff-sydney.jpeg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
+            </div>
+            <div class="col-sm-8 rounded pb-5">
+                <h3 class="pb-0 mb-0 text-white">Sydney Winn</h3>
+                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
+                    <p class="m-0 p-0" style="height: 100%;">
+                        Sydney Winn is originally from Gretna, Louisiana. She currently resides in Byram, MS with her husband, Dawson. She spent her early childhood years dancing for 10 plus years before she moved to MS. She also cheered competitively for 8 years and did high school cheer for 4 years. She’s competed in multiple competitions throughout her years as a cheerleader. She is beyond thrilled to help the younger generation learn to tumble/cheer. This is Sydney’s first year at LCDC and she is so excited to join this amazing team!
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row my-5 p-4 rounded shadow gradient-splash">
+            <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                <img src="/images/staff-leanne.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
+            </div>
+            <div class="col-sm-8 rounded pb-5">
+                <h3 class="pb-0 mb-0 text-white">Leanne Denman</h3>
+                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
+                    <p class="m-0 p-0" style="height: 100%;">
+                        Leanne Denman is currently attending Belhaven University where she is
+
+                        a double major in Dance and Elementary Education and also on the
+
+                        Belhaven Gold Dance Team.  She grew up in Huntsville, Alabama where
+
+                        she performed and took dance classes in ballet, pointe, partnering,
+
+                        jazz, contemporary, musical theatre, liturgical, tap, and modern.  She
+
+                        also taught and assisted with dance classes at various studios in the
+
+                        Huntsville area.  Leanne has a passion for teaching children both in
+
+                        academics and dance, and she can't wait to be part of the LCDC staff!
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row my-5 p-4 rounded shadow gradient-splash">
+            <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                <img src="/images/staff-courtney.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
+            </div>
+            <div class="col-sm-8 rounded pb-5">
+                <h3 class="pb-0 mb-0 text-white">Courtney Hamlin</h3>
+                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
+                    <p class="m-0 p-0" style="height: 100%;">
+                        Bio coming soon!
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row my-5 p-4 rounded shadow gradient-splash">
+            <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                <img src="/images/staff-haley.jpeg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
+            </div>
+            <div class="col-sm-8 rounded pb-5">
+                <h3 class="pb-0 mb-0 text-white">Haley Cannda</h3>
+                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
+                    <p class="m-0 p-0" style="height: 100%;">
+                        Bio coming soon!
+                    </p>
+                </div>
+            </div>
+        </div>
 
     </div>
 
