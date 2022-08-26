@@ -41,6 +41,14 @@ Route::get('/dance-studios-jackson-ms', function () {
     return view('/dance-studios-jackson-ms');
 });
 
+Route::get('/dance-lesson-ridgeland-ms', function () {
+    return view('/dance-lesson-ridgeland-ms');
+});
+
+Route::get('/dance-madison-ms', function () {
+    return view('/dance-madison-ms');
+});
+
 //Route::get('/tuition', function () {
 //    return view('/tuition');
 //});

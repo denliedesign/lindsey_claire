@@ -269,7 +269,7 @@
 
                         academics and dance, and she can't wait to be part of the LCDC staff!
                     </p>
-                </div>
+                </div>Ridgeland, Mississippi
             </div>
         </div>
         <div class="row my-5 p-4 rounded shadow gradient-splash">

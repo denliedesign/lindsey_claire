@@ -75,6 +75,10 @@
 <p id="credit" class="text-center m-0" style="background: black;">
     <a class="text-decoration-none" href="/dance-studios-jackson-ms"><small class="text-muted">Dance Studios Jackson MS</small></a>
     &nbsp; / &nbsp;
+    <a class="text-decoration-none" href="/dance-lesson-ridgeland-ms"><small class="text-muted">Dance Lesson Ridgeland MS</small></a>
+    &nbsp; / &nbsp;
+    <a class="text-decoration-none" href="/dance-madison-ms"><small class="text-muted">Dance Madison MS</small></a>
+    &nbsp; / &nbsp;
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
     &nbsp; / &nbsp;
     @guest
