@@ -269,7 +269,9 @@
         </div>
     </div>
 
-    {{--    @include('testimonials')--}}
+        <div class="gradient-splash">
+            @include('testimonials')
+        </div>
 
     <div id="call-to-action" class="bg-white pt-5 pb-1">
         <div class="text-center pt-2">
