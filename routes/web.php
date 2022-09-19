@@ -49,6 +49,10 @@ Route::get('/dance-madison-ms', function () {
     return view('/dance-madison-ms');
 });
 
+Route::get('/dance-clinton-ms', function () {
+    return view('/dance-clinton-ms');
+});
+
 //Route::get('/tuition', function () {
 //    return view('/tuition');
 //});
