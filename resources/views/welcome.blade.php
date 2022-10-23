@@ -38,7 +38,8 @@
             <div class="container">
                 <h2>We Have Built a Reputation for Excellence in Dance & Tumble Instruction</h2>
                 <p>
-                    From your child’s first class to their graduation performance, LCDC has dance classes in Jackson MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+{{--                    From your child’s first class to their graduation performance, LCDC has dance classes in Jackson MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
+                    From your child’s first class to their graduation performance, LCDC has classes at two locations: Byram & Crystal Springs MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                 </p>
             </div>
         </div>
@@ -69,9 +70,9 @@
 
     <div class="bg-white pb-5" id="class-categories">
         <div class="container pb-5">
-            <div class="d-flex justify-content-center">
-                <img src="/images/open-house-22.png" alt="open house invite" class="img-fluid">
-            </div>
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <img src="/images/open-house-22.png" alt="open house invite" class="img-fluid">--}}
+{{--            </div>--}}
             <h2 class="text-center pt-5">Tumble & Dance Classes in Jackson MS</h2>
             <p class="text-center text-muted">Mississippi Dance in Byram, Crystal Springs, & Surrounding Areas</p>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">

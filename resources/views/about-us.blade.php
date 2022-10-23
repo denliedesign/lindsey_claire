@@ -87,19 +87,19 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-molley.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Molley Pollet</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Molley is from Columbus, MS. She is curently a student at Mississippi College in Clinton, MS. Molley works the front desk at the LCDC. Molley is currently in her 3rd year working for us at the LCDC.
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-molley.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Molley Pollet</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Molley is from Columbus, MS. She is curently a student at Mississippi College in Clinton, MS. Molley works the front desk at the LCDC. Molley is currently in her 3rd year working for us at the LCDC.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
@@ -269,7 +269,7 @@
 
                         academics and dance, and she can't wait to be part of the LCDC staff!
                     </p>
-                </div>Ridgeland, Mississippi
+                </div>
             </div>
         </div>
         <div class="row my-5 p-4 rounded shadow gradient-splash">

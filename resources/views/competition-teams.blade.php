@@ -17,10 +17,9 @@
                 <img src="/images/cheer-and-competition-flyer.png" alt="competition and cheer flyer" class="img-fluid">
             </div>
             <div class="col-sm">
-                <img src="/images/comp-h-1.jpg" alt="competition" class="img-fluid mb-4">
-{{--                <img src="/images/comp-h-2.jpg" alt="competition" class="img-fluid">--}}
-                <img src="/images/comp-h-3.jpg" alt="competition" class="img-fluid">
-{{--                <img src="/images/comp-h-4.jpg" alt="competition" class="img-fluid">--}}
+                <img src="/images/competition-graphic.jpg" alt="" class="img-fluid">
+{{--                <img src="/images/comp-h-1.jpg" alt="competition" class="img-fluid mb-4">--}}
+{{--                <img src="/images/comp-h-3.jpg" alt="competition" class="img-fluid">--}}
             </div>
         </div>
         <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
