@@ -69,12 +69,12 @@
 {{--    </div>--}}
 
     <div class="bg-white pb-5" id="class-categories">
-        <div class="container pb-5">
+        <div class="container">
 {{--            <div class="d-flex justify-content-center">--}}
 {{--                <img src="/images/open-house-22.png" alt="open house invite" class="img-fluid">--}}
 {{--            </div>--}}
-            <h2 class="text-center pt-5">Tumble & Dance Classes in Jackson MS</h2>
-            <p class="text-center text-muted">Mississippi Dance in Byram, Crystal Springs, & Surrounding Areas</p>
+{{--            <h2 class="text-center pt-5">Tumble & Dance Classes in Jackson MS</h2>--}}
+{{--            <p class="text-center text-muted">Mississippi Dance in Byram, Crystal Springs, & Surrounding Areas</p>--}}
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
                     <img src="/images/baby-and-me.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 0; width: 100%;">
@@ -88,22 +88,22 @@
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/twinkle-stars.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 45%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family mt-2" style="width: 100%;">Twinkle Stars</div></a>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Twinkle Stars</div></a>
                     <div class="text-center text-muted" style="font-size: 14px;">Ages 3-6</div>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/star-track.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 20%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Star Track</div></a>
-                    <div class="text-center text-muted" style="font-size: 14px;"></div>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family mt-2" style="width: 100%;">Star Track</div></a>
+                    <div class="text-center text-muted" style="font-size: 14px;">Ages 2-6</div>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/ballet.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 12%; width: 100%;">
-                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family mt-2" style="width: 100%;">Ballet, Tap, Jazz</div></a>
+                    <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Ballet, Tap, Jazz</div></a>
                     <div class="text-center text-muted" style="font-size: 14px;">Ages 7+</div>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/hip-hop.jpg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 50%; width: 100%;">
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family mt-2" style="width: 100%;">Hip Hop, Contemporary, Lyrical, & More</div></a>
+                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family mt-2" style="width: 100%;"><span style="font-size: 0.7em;">Hip Hop, Contemporary, Lyrical & More</span></div></a>
                     <div class="text-center text-muted" style="font-size: 14px;">Ages 7+</div>
                 </div>
                 <div class="col-sm mt-4">
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/cheer.jpeg" alt="dancers" class="img-fluid shadow rounded" style="max-height: 204px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family mt-2" style="width: 100%;">Cheer, Tumble, Acro</div></a>
+                    <a href="/classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family mt-2" style="width: 100%;"><span style="font-size: 0.7em;">Cheer, Tumble & Acro Tumble</span></div></a>
                     <div class="text-center text-muted" style="font-size: 14px;">Ages 2-6, 6+</div>
                 </div>
             </div>
@@ -148,77 +148,77 @@
         </div>
     </div>
 
-    <div class="bg-white py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm d-flex align-items-center">
-                    <div>
-                        <div class="d-flex justify-content-center mb-0">
-                            <img src="/images/logo-raising-the-barre.png" alt="program logo" class="img-fluid">
-                        </div>
-                        <h3 class="text-center mt-4">Raising The Barre</h3>
-                        <p class="">
-                            <br><strong>Who:</strong>  Dancers ages 10-19 years of age – 5th Grade and up
-                            <br><strong>Why:</strong>  Provide candidates with the skills and opportunities to make them compassionate, responsible, confident, and strong leaders.
-                            <br><strong>What:</strong>  Raising the Barre is a youth community outreach group and a teacher assistant program. Raising the Barre students shall complete service and teaching hours as assigned by a Faculty Mentor who will help them schedule their commitments and guide them through their projects.
-                            <br>
-                            <br><strong>Mission Statement</strong>
-                            <br>We serve the community through the giving of our time and talents. We are role models for the younger students in and outside of the classroom at the dance studio.
-                            <br>
-                            <br>To Sign up as a Raising the Barre Candidate or as a Parent Volunteer please complete and submit the appropriate application.  Please email info@lcdanceco.com for an application.
-                        </p>
-                        <img src="/images/raising-the-barre.jpg" alt="older dancers at barre" class="img-fluid shadow rounded">
-                    </div>
-                </div>
-                <div class="col-sm d-flex align-items-center justify-content-center">
-                    <div class="">
-                        <h3>Required Pillars of Character and Service</h3>
-                        <p>
-                            <strong>Leadership:</strong> <br>
-                            Dance Class Teaching Assistant – At least 1 Class per week from September through May totaling Community Service hours earned Approximately 40 Hours per year or more
-                            <br>
-                            Classes that are the dancers’ age group and level and below <br>
-                            Must Attend Mandatory Class Assistant Training <br>
-                            <br>
-                            <strong>Responsibility:</strong> <br>
-                            Performance and Studio Volunteer <br>
-                            Backstage, Crew, etc at any LCDC Performance/Event such as Twinkle Star Showcases, May Recitals, Holiday Parties. RTB Candidates can choose the events that work for them
-                            <br>
-                            <br>
-                            <strong>Compassion:</strong> <br>
-                            Community Service – At least 2 Community Service Events per semester to be arranged by the RTB Faculty.
-                            <br>
-                            Examples: Retirement Home Visits, Offering Free Dance Workshops to Underprivileged Youth and Children with Special Needs, Costume and Dancewear Drives, Flash Dance Mobs coupled with Goods Drive, etc.
-                            <br>
-                            <br>
-                            <strong>Confidence:</strong> <br>
-                            Etiquette & Public Speaking Experience <br>
-                            <br>
-                            <strong>Additional Commitments:</strong> <br>
-                            Attend Quarterly Meetings – January, April, July/August, October.  At these quarterly meetings dancers who have met their goals for that quarter/year will be recognized.  Also, Confidence sessions will be held in conjunction with the quarterly meetings.
-                            <br>
-                            <br>
-                            <strong>Eligibility Requirements:</strong> <br>
-                            GPA – 3.0 or above and/or Honor Roll <br>
-                            Regular Dance Class Attendance <br>
-                            Positive attitude in class including compliance with dress code <br>
-                            Parent Volunteers/Involvement: <br>
-                            Business Sponsorships <br>
-                            Volunteering at Community Service Events <br>
-                            <br>
-                            <strong>Benefits for Dancers:</strong> <br>
-                            Valuable In Class Teacher Assistant Training <br>
-                            “On the Job” Studio and Recital Management Skills <br>
-                            Introduction to possible dance related careers and jobs <br>
-                            Etiquette and Public Speaking Skills <br>
-                            Community Service Hours required for High School and/or College Admission <br>
-                            Broader World View - moving from the “me” generation to the “we” generation.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <div class="d-flex justify-content-center mb-0">--}}
+{{--                            <img src="/images/logo-raising-the-barre.png" alt="program logo" class="img-fluid">--}}
+{{--                        </div>--}}
+{{--                        <h3 class="text-center mt-4">Raising The Barre</h3>--}}
+{{--                        <p class="">--}}
+{{--                            <br><strong>Who:</strong>  Dancers ages 10-19 years of age – 5th Grade and up--}}
+{{--                            <br><strong>Why:</strong>  Provide candidates with the skills and opportunities to make them compassionate, responsible, confident, and strong leaders.--}}
+{{--                            <br><strong>What:</strong>  Raising the Barre is a youth community outreach group and a teacher assistant program. Raising the Barre students shall complete service and teaching hours as assigned by a Faculty Mentor who will help them schedule their commitments and guide them through their projects.--}}
+{{--                            <br>--}}
+{{--                            <br><strong>Mission Statement</strong>--}}
+{{--                            <br>We serve the community through the giving of our time and talents. We are role models for the younger students in and outside of the classroom at the dance studio.--}}
+{{--                            <br>--}}
+{{--                            <br>To Sign up as a Raising the Barre Candidate or as a Parent Volunteer please complete and submit the appropriate application.  Please email info@lcdanceco.com for an application.--}}
+{{--                        </p>--}}
+{{--                        <img src="/images/raising-the-barre.jpg" alt="older dancers at barre" class="img-fluid shadow rounded">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                    <div class="">--}}
+{{--                        <h3>Required Pillars of Character and Service</h3>--}}
+{{--                        <p>--}}
+{{--                            <strong>Leadership:</strong> <br>--}}
+{{--                            Dance Class Teaching Assistant – At least 1 Class per week from September through May totaling Community Service hours earned Approximately 40 Hours per year or more--}}
+{{--                            <br>--}}
+{{--                            Classes that are the dancers’ age group and level and below <br>--}}
+{{--                            Must Attend Mandatory Class Assistant Training <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Responsibility:</strong> <br>--}}
+{{--                            Performance and Studio Volunteer <br>--}}
+{{--                            Backstage, Crew, etc at any LCDC Performance/Event such as Twinkle Star Showcases, May Recitals, Holiday Parties. RTB Candidates can choose the events that work for them--}}
+{{--                            <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Compassion:</strong> <br>--}}
+{{--                            Community Service – At least 2 Community Service Events per semester to be arranged by the RTB Faculty.--}}
+{{--                            <br>--}}
+{{--                            Examples: Retirement Home Visits, Offering Free Dance Workshops to Underprivileged Youth and Children with Special Needs, Costume and Dancewear Drives, Flash Dance Mobs coupled with Goods Drive, etc.--}}
+{{--                            <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Confidence:</strong> <br>--}}
+{{--                            Etiquette & Public Speaking Experience <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Additional Commitments:</strong> <br>--}}
+{{--                            Attend Quarterly Meetings – January, April, July/August, October.  At these quarterly meetings dancers who have met their goals for that quarter/year will be recognized.  Also, Confidence sessions will be held in conjunction with the quarterly meetings.--}}
+{{--                            <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Eligibility Requirements:</strong> <br>--}}
+{{--                            GPA – 3.0 or above and/or Honor Roll <br>--}}
+{{--                            Regular Dance Class Attendance <br>--}}
+{{--                            Positive attitude in class including compliance with dress code <br>--}}
+{{--                            Parent Volunteers/Involvement: <br>--}}
+{{--                            Business Sponsorships <br>--}}
+{{--                            Volunteering at Community Service Events <br>--}}
+{{--                            <br>--}}
+{{--                            <strong>Benefits for Dancers:</strong> <br>--}}
+{{--                            Valuable In Class Teacher Assistant Training <br>--}}
+{{--                            “On the Job” Studio and Recital Management Skills <br>--}}
+{{--                            Introduction to possible dance related careers and jobs <br>--}}
+{{--                            Etiquette and Public Speaking Skills <br>--}}
+{{--                            Community Service Hours required for High School and/or College Admission <br>--}}
+{{--                            Broader World View - moving from the “me” generation to the “we” generation.--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-gradient-black"></div>
@@ -277,7 +277,7 @@
     <div id="call-to-action" class="bg-white pt-5 pb-1">
         <div class="text-center pt-2">
             <h2 class="txt-kapa-redish">Be A Part Of Our <span class="txt-red">LCDC</span> Family!</h2>
-            <p class="text-center text-muted">Dance Studios Jackson MS, Byram, Crystal Springs.</p>
+            <p class="text-center text-muted">Dance Studios in Byram & Crystal Springs</p>
             {{--            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>--}}
         </div>
     </div>
