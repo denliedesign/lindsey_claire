@@ -9,7 +9,9 @@
         <h1 class="text-center my-5">Current Members</h1>
         <div class="row">
             <div class="col-sm d-flex align-items-center justify-content-center">
-                <p class="text-center">
+                <p class="text-center text-uppercase">
+                    <a href="/images/christmas-newsletter.pdf" target="_blank">2022 Christmas Celebration Newsletter</a>
+                    <br><br>
                     <a href="/images/parents-membership-waiver-agreement-22.pdf" target="_blank">2022/2023 MEMBERSHIP AGREEMENT/LIABILITY WAIVER</a>
                     <br><br>
                     <a href="/images/parents-ach-form-22.pdf" target="_blank">ACH FORM (AUTO DRAFT FORM)</a>
