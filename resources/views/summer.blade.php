@@ -18,7 +18,7 @@
                 <img src="/images/summer-camps-2023.jpg" alt="summer camps" class="img-fluid">
             </div>
             <div class="col-sm">
-                <img src="/images/summer-schedule-2023.jpg" alt="summer schedule" class="img-fluid">
+                <img src="/images/summer-schedule-2023b.jpg" alt="summer schedule" class="img-fluid">
             </div>
         </div>
         <div class="row my-4">
