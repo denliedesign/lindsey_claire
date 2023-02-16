@@ -29,9 +29,9 @@ Route::get('/current-members', function () {
     return view('/current-members');
 });
 
-//Route::get('/summer', function () {
-//    return view('/summer');
-//});
+Route::get('/summer', function () {
+    return view('/summer');
+});
 
 Route::get('/crystal-springs', function () {
     return view('/crystal-springs');
