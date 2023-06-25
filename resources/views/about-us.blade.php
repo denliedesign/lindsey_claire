@@ -106,7 +106,7 @@
                 <img src="/images/staff-allyson.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
             </div>
             <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Allyson McDavid</h3>
+                <h3 class="pb-0 mb-0 text-white">Allyson McDavid <span style="font-size: 0.6em; opacity: 60%;">allyson@lcdanceco.com</span></h3></h3>
                 <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
                     <p class="m-0 p-0" style="height: 100%;">
 {{--                        Allyson Roberston currently attends Mississippi College. She has been dancing in her hometown of Zachary, Louisiana for 6 years where she competed with her studio’s competition team for 5 years. She has a true passion for teaching young dancers and watching them grow into their personalities as young adults. Allyson is in her 4th year working for us at the LCDC.--}}
@@ -132,6 +132,21 @@
 
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
+                <img src="/images/staff-emily.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
+            </div>
+            <div class="col-sm-8 rounded pb-5">
+                <h3 class="pb-0 mb-0 text-white">Emily Roberson <span style="font-size: 0.6em; opacity: 60%;">info@lcdanceco.com</span></h3>
+                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
+                    <p class="m-0 p-0" style="height: 100%;">
+                        {{--                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Clinton with her husband and two daughters. She is beginning her 4th year with LCDC.--}}
+                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Raymond with her husband and two daughters. She is beginning her 6th year with LCDC.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row my-5 p-4 rounded shadow gradient-splash">
+            <div class="col-sm-4 d-flex justify-content-center align-items-center">
                 <img src="/images/staff-maegan.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
             </div>
             <div class="col-sm-8 rounded pb-5">
@@ -147,34 +162,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-emily.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Emily Roberson</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-{{--                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Clinton with her husband and two daughters. She is beginning her 4th year with LCDC.--}}
-                        Emily Roberson is from Raymond, MS. Emily is the Operations Manager at LCDC and handles all of our social media platforms. She enjoys assisting both new and current members of the LCDC family and providing them with any information needed so that their experience is the best that it can be. Emily currently lives in Raymond with her husband and two daughters. She is beginning her 6th year with LCDC.
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-maria.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Maria Kapustina</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Maria Kapustina is from Russia but has lived in the United States for fifteen years. She was a student teacher and choreographer, and she attended numerous advanced study workshops with artists such as Igal Perry (Peridance Center), Dwight Rhoden and Desmond Richardson (Complexions Contemporary Ballet), and Mark Morris. Maria’s background includes extensive training in classical and contemporary ballet, modern, and somatic/improvisation from prestigious dance educators such as Tatiana Vladimirovna, Meredith Sutton, Kelly Ferris Lester, Becca McArthur, Ballet Magnificat Marcie Robertson. She has also earned a Bachelor of Fine Arts degree in Performance and Choreography from the University of Southern Mississippi. Maria was named “Outstanding Dance Major” by the National Dance Association and graduated with honors. Kapustina’s goal as a dance educator is to share her knowledge and passion for dance and expand her students’ understanding of their body in motion. Her approach is to create a stimulating, challenging, and inclusive program that focus on gradual progression of movement and analytical approach to explaining technique for the overall wellbeing of her students.
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-maria.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Maria Kapustina</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Maria Kapustina is from Russia but has lived in the United States for fifteen years. She was a student teacher and choreographer, and she attended numerous advanced study workshops with artists such as Igal Perry (Peridance Center), Dwight Rhoden and Desmond Richardson (Complexions Contemporary Ballet), and Mark Morris. Maria’s background includes extensive training in classical and contemporary ballet, modern, and somatic/improvisation from prestigious dance educators such as Tatiana Vladimirovna, Meredith Sutton, Kelly Ferris Lester, Becca McArthur, Ballet Magnificat Marcie Robertson. She has also earned a Bachelor of Fine Arts degree in Performance and Choreography from the University of Southern Mississippi. Maria was named “Outstanding Dance Major” by the National Dance Association and graduated with honors. Kapustina’s goal as a dance educator is to share her knowledge and passion for dance and expand her students’ understanding of their body in motion. Her approach is to create a stimulating, challenging, and inclusive program that focus on gradual progression of movement and analytical approach to explaining technique for the overall wellbeing of her students.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         {{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
         {{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
