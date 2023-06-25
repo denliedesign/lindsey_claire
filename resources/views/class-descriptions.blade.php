@@ -1,4 +1,4 @@
-<h1 class="text-center my-5">2022-2023 Season<br>Classes & Schedule</h1>
+<h1 class="text-center my-5">2023-2024 Season<br>Classes & Schedule</h1>
 <p class="text-center">
     <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2016%2F2017" target="_blank">View Class Schedule</a>
 </p>
@@ -102,5 +102,6 @@
     <br>
     <br>
     <strong>LCDC in Local Daycares & Schools</strong> <br>
-    We are currently serving as the dance instructors at Funtime Preschool in Clinton, Early Childhood Development Center in Raymond at RUMC, & Hillcrest Christian School. We use our Twinkle Star Dance Curriculum at all locations.
+    We are currently serving as the dance instructors at Lakeshore Blessed Beginnings and Hillcrest Christian School. We use our Twinkle Star Dance Curriculum at all locations.
+
 </p>

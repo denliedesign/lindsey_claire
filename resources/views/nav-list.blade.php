@@ -21,7 +21,7 @@
         <a class="nav-link" href="https://sites.google.com/view/lcdcrecitalinformation" target="_blank">recital</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/classes">2022-2023 Season</a>
+        <a class="nav-link" href="/classes">2023-2024 Season</a>
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="/competition-teams">competition</a>

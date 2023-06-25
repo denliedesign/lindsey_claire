@@ -41,6 +41,9 @@
 {{--                    From your child’s first class to their graduation performance, LCDC has dance classes in Jackson MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
                     From your child’s first class to their graduation performance, LCDC has classes at two locations: Byram & Crystal Springs MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                 </p>
+                <div class="d-flex justify-content-center">
+                    <img src="/images/23-24-open-house.jpeg" alt="open house" class="img-fluid">
+                </div>
             </div>
         </div>
     </div>

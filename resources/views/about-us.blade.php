@@ -116,19 +116,19 @@
             </div>
         </div>
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-natalie.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Natalie Hamlin</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Natalie is from Terry, Ms. She has been a cheerleader for 15 years and cheered competitively for 10 years. She has 6 All-American titles as well as a Top All-American title. She served as captain for her junior high and high school cheer team at Central Hinds Academy. She recently just finished cheering 2 years at Hinds Community College on a full scholarship. There, she served as captain her freshman and sophomore year. she was a top 10 finalist at UCA college nationals, received an invitation to be on UCA staff, and had a bowl game appearance in Iowa. She is currently a student at Mississippi College and majoring in Elementary Education with a specialization in Dyslexia. She can’t wait to teach cheerleading and tumble, it is what she loves to do and wants to share  her passion with all of her students!
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-natalie.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Natalie Hamlin</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Natalie is from Terry, Ms. She has been a cheerleader for 15 years and cheered competitively for 10 years. She has 6 All-American titles as well as a Top All-American title. She served as captain for her junior high and high school cheer team at Central Hinds Academy. She recently just finished cheering 2 years at Hinds Community College on a full scholarship. There, she served as captain her freshman and sophomore year. she was a top 10 finalist at UCA college nationals, received an invitation to be on UCA staff, and had a bowl game appearance in Iowa. She is currently a student at Mississippi College and majoring in Elementary Education with a specialization in Dyslexia. She can’t wait to teach cheerleading and tumble, it is what she loves to do and wants to share  her passion with all of her students!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
@@ -232,19 +232,19 @@
         {{--            </div>--}}
         {{--        </div>--}}
 
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-sydney.jpeg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Sydney Winn</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Sydney Winn is originally from Gretna, Louisiana. She currently resides in Byram, MS with her husband, Dawson. She spent her early childhood years dancing for 10 plus years before she moved to MS. She also cheered competitively for 8 years and did high school cheer for 4 years. She’s competed in multiple competitions throughout her years as a cheerleader. She is beyond thrilled to help the younger generation learn to tumble/cheer. This is Sydney’s first year at LCDC and she is so excited to join this amazing team!
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-sydney.jpeg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Sydney Winn</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Sydney Winn is originally from Gretna, Louisiana. She currently resides in Byram, MS with her husband, Dawson. She spent her early childhood years dancing for 10 plus years before she moved to MS. She also cheered competitively for 8 years and did high school cheer for 4 years. She’s competed in multiple competitions throughout her years as a cheerleader. She is beyond thrilled to help the younger generation learn to tumble/cheer. This is Sydney’s first year at LCDC and she is so excited to join this amazing team!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
                 <img src="/images/staff-leanne.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
@@ -272,19 +272,19 @@
                 </div>
             </div>
         </div>
-        <div class="row my-5 p-4 rounded shadow gradient-splash">
-            <div class="col-sm-4 d-flex justify-content-center align-items-center">
-                <img src="/images/staff-courtney.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
-            </div>
-            <div class="col-sm-8 rounded pb-5">
-                <h3 class="pb-0 mb-0 text-white">Courtney Hamlin</h3>
-                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">
-                    <p class="m-0 p-0" style="height: 100%;">
-                        Bio coming soon!
-                    </p>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-5 p-4 rounded shadow gradient-splash">--}}
+{{--            <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
+{{--                <img src="/images/staff-courtney.jpg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm-8 rounded pb-5">--}}
+{{--                <h3 class="pb-0 mb-0 text-white">Courtney Hamlin</h3>--}}
+{{--                <div class="rounded p-4" style="background: white; width: 100%; height: 100%;">--}}
+{{--                    <p class="m-0 p-0" style="height: 100%;">--}}
+{{--                        Bio coming soon!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="row my-5 p-4 rounded shadow gradient-splash">
             <div class="col-sm-4 d-flex justify-content-center align-items-center">
                 <img src="/images/staff-haley.jpeg" class="img-fluid rounded" style="height: 439px; width: 349px; object-fit: cover;">
