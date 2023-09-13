@@ -61,6 +61,7 @@
         <h1 class="text-center my-5">Staff</h1>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-17.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-16.jpg" alt="staff headshot" class="img-fluid"></div>
+        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-13.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-15.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-1.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-2.jpg" alt="staff headshot" class="img-fluid"></div>
@@ -74,7 +75,6 @@
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-10.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-11.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-12.jpg" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-13.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-14.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-18.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-19.jpg" alt="staff headshot" class="img-fluid"></div>
