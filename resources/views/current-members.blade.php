@@ -12,6 +12,8 @@
                 <p class="text-center text-uppercase">
 {{--                    <a href="/images/christmas-newsletter.pdf" target="_blank">2022 Christmas Celebration Newsletter</a>--}}
                     <br><br>
+                    <a href="/images/parents-calendar-23.pdf" target="_blank">2023/2024 CALENDAR</a>
+                    <br><br>
                     <a href="/images/parents-membership-waiver-agreement-23.pdf" target="_blank">2023/2024 MEMBERSHIP AGREEMENT/LIABILITY WAIVER</a>
                     <br><br>
                     <a href="/images/parents-ach-form-23.pdf" target="_blank">ACH FORM (AUTO DRAFT FORM)</a>
