@@ -24,6 +24,8 @@
                     <br><br>
                     <a href="/images/parents-welcome-letter-23.pdf" target="_blank">2023/2024 WELCOME LETTER</a>
                     <br><br>
+                    <a href="/images/23-winter-showcase-newsletter.pdf" target="_blank">2023 WINTER SHOWCASE NEWSLETTER</a>
+                    <br><br>
                     <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">ORDER DANCEWEAR</a>
                 </p>
             </div>
