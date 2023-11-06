@@ -2,6 +2,14 @@
 <p class="text-center">
     <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2016%2F2017" target="_blank">View Class Schedule</a>
 </p>
+<div class="my-3">
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+        <img src="/images/2.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/3.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/4.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/5.jpg" alt="classes" class="img-fluid my-1">
+    </div>
+</div>
 <p>
     <strong>Baby & Me (ages 0-2.5)</strong> <br>
     Baby & Me classes are a fun way for care givers and their babies or
