@@ -11,7 +11,7 @@
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-gray">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
+                <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
             </div>
         </div>
     </div>

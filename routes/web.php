@@ -72,6 +72,9 @@ Route::get('/competition-teams', function () {
 Route::get('/parties', function () {
     return view('/parties');
 });
+Route::get('/contact', function () {
+    return view('/contact');
+});
 
 Route::middleware([
     'auth:sanctum',

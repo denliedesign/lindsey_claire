@@ -38,14 +38,33 @@
             <div class="container">
                 <h2>We Have Built a Reputation for Excellence in Dance & Tumble Instruction</h2>
                 <p>
-{{--                    From your child’s first class to their graduation performance, LCDC has dance classes in Jackson MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
                     From your child’s first class to their graduation performance, LCDC has classes at two locations: Byram & Crystal Springs MS for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, LCDC is More Than Just Great Dancing®! Our dancers & tumblers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                 </p>
-{{--                <div class="d-flex justify-content-center">--}}
-{{--                    <img src="/images/23-24-open-house.jpeg" alt="open house" class="img-fluid">--}}
-{{--                </div>--}}
             </div>
         </div>
+    </div>
+
+    <div>
+        <h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Learn More</h2>
+        <iframe
+            src="https://link.enrollio.ai/widget/form/MovOZJXA4LPpFx7fr0bi"
+            style="width:100%;height:100%;border:none;border-radius:4px"
+            id="inline-MovOZJXA4LPpFx7fr0bi"
+            data-layout="{'id':'INLINE'}"
+            data-trigger-type="alwaysShow"
+            data-trigger-value=""
+            data-activation-type="alwaysActivated"
+            data-activation-value=""
+            data-deactivation-type="neverDeactivate"
+            data-deactivation-value=""
+            data-form-name="Website Lead Capture Form"
+            data-height="636"
+            data-layout-iframe-id="inline-MovOZJXA4LPpFx7fr0bi"
+            data-form-id="MovOZJXA4LPpFx7fr0bi"
+            title="Website Lead Capture Form"
+        >
+        </iframe>
+        <script src="https://link.enrollio.ai/js/form_embed.js"></script>
     </div>
 
 {{--    <div class="bg-white">--}}
@@ -222,6 +241,33 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm d-flex align-items-center justify-content-center"><h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Try your first dance class for free!</h2></div>
+            <div class="col-sm">
+                <iframe
+                    src="https://link.enrollio.ai/widget/form/RuIyltdW79MEeX2n98up"
+                    style="width:100%;height:100%;border:none;border-radius:13px"
+                    id="inline-RuIyltdW79MEeX2n98up"
+                    data-layout="{'id':'INLINE'}"
+                    data-trigger-type="alwaysShow"
+                    data-trigger-value=""
+                    data-activation-type="alwaysActivated"
+                    data-activation-value=""
+                    data-deactivation-type="neverDeactivate"
+                    data-deactivation-value=""
+                    data-form-name="Website Free Trial Class Form"
+                    data-height="867"
+                    data-layout-iframe-id="inline-RuIyltdW79MEeX2n98up"
+                    data-form-id="RuIyltdW79MEeX2n98up"
+                    title="Website Free Trial Class Form"
+                >
+                </iframe>
+            </div>
+            <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+        </div>
+    </div>
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-gradient-black"></div>
