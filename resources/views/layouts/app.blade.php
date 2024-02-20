@@ -62,6 +62,22 @@
     });
 </script>
 
+<chat-widget
+    location-id="kcqmXLu5LSAaMIxrcJ3H"
+    style="--chat-widget-primary-color: #ea1b3f; --chat-widget-active-color:#ea1b3f ;--chat-widget-bubble-color: #ea1b3f ;"
+    sub-heading="Enter your question below and a team member will get right back to you!"
+    prompt-msg="Hi! This is Miss Allyson  of Lindsey Claire Dance Company. How can we help?"
+    success-msg="One of our team members will contact you shortly!"
+    prompt-avatar="https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/locationPhotos%2FkcqmXLu5LSAaMIxrcJ3H%2Fchat-widget-person?alt=media&token=d1bb6fe1-f634-4e4b-9d65-6eb809f51f20"
+    locale="en-us"
+    primary-color="#ea1b3f">
+</chat-widget>
+<script
+    src="https://widgets.leadconnectorhq.com/loader.js"
+    data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" >
+</script>
+
+
 </body>
 </html>
 
