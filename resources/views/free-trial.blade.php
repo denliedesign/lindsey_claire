@@ -6,9 +6,9 @@
     </div>
 
     <div class="container">
-        <div class="row">
-            <div class="col-md d-flex align-items-center justify-content-center"><h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Try your first dance class for free!</h2></div>
-            <div class="col-md">
+        <div>
+            <h1 class="text-center my-5">Try your first dance class for free!</h1>
+            <div>
                 <iframe
                     src="https://link.enrollio.ai/widget/form/RuIyltdW79MEeX2n98up"
                     style="width:100%;height:100%;border:none;border-radius:13px"
