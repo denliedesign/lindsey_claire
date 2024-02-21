@@ -75,6 +75,9 @@ Route::get('/parties', function () {
 Route::get('/contact', function () {
     return view('/contact');
 });
+Route::get('/free-trial', function () {
+    return view('/free-trial');
+});
 
 Route::middleware([
     'auth:sanctum',
