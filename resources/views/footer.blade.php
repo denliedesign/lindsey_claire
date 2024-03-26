@@ -5,13 +5,13 @@
                 <p class="txt-red">Ready To Leap In?</p>
                 <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
             </div>
-            <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-redish">Want To Give It A Try?</p>
-                <a href="/free-trial" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family">&#10097; Schedule A Trial!</div></a>
-            </div>
+{{--            <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                <p class="txt-redish">Want To Give It A Try?</p>--}}
+{{--                <a href="/free-trial" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family">&#10097; Schedule A Trial!</div></a>--}}
+{{--            </div>--}}
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-gray">Still Have Questions?</p>
-                <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
+                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
             </div>
         </div>
     </div>

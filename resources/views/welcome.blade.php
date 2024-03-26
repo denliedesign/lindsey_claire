@@ -19,16 +19,16 @@
                         <p class="txt-red">Ready To Leap In?</p>
                         <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
                     </div>
-                    <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-redish">Want To Give It A Try?</p>
-                        <a href="/free-trial" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family">&#10097; Schedule A Trial!</div></a>
-                        {{--                    <div>--}}
-                        {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
-                        {{--                    </div>--}}
-                    </div>
+{{--                    <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                        <p class="txt-redish">Want To Give It A Try?</p>--}}
+{{--                        <a href="/free-trial" class="btn-opacity"><div class="shadow btn btn-lg btn-redish btn-family">&#10097; Schedule A Trial!</div></a>--}}
+{{--                        --}}{{--                    <div>--}}
+{{--                        --}}{{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
+{{--                        --}}{{--                    </div>--}}
+{{--                    </div>--}}
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-gray">Still Have Questions?</p>
-                        <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
+                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-gray btn-family">&#10097; Contact Us!</div></a>
                     </div>
                 </div>
             </div>
@@ -218,28 +218,28 @@
 {{--            </div>--}}
 {{--        </div>--}}
 {{--    </div>--}}
-    <div class="container">
-        <h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Learn More</h2>
-        <iframe
-            src="https://link.enrollio.ai/widget/form/MovOZJXA4LPpFx7fr0bi"
-            style="width:100%;height:100%;border:none;border-radius:4px"
-            id="inline-MovOZJXA4LPpFx7fr0bi"
-            data-layout="{'id':'INLINE'}"
-            data-trigger-type="alwaysShow"
-            data-trigger-value=""
-            data-activation-type="alwaysActivated"
-            data-activation-value=""
-            data-deactivation-type="neverDeactivate"
-            data-deactivation-value=""
-            data-form-name="Website Lead Capture Form"
-            data-height="636"
-            data-layout-iframe-id="inline-MovOZJXA4LPpFx7fr0bi"
-            data-form-id="MovOZJXA4LPpFx7fr0bi"
-            title="Website Lead Capture Form"
-        >
-        </iframe>
-        <script src="https://link.enrollio.ai/js/form_embed.js"></script>
-    </div>
+{{--    <div class="container">--}}
+{{--        <h2 class="text-center text-uppercase fw-bold mt-4" style="font-size: 4em;">Learn More</h2>--}}
+{{--        <iframe--}}
+{{--            src="https://link.enrollio.ai/widget/form/MovOZJXA4LPpFx7fr0bi"--}}
+{{--            style="width:100%;height:100%;border:none;border-radius:4px"--}}
+{{--            id="inline-MovOZJXA4LPpFx7fr0bi"--}}
+{{--            data-layout="{'id':'INLINE'}"--}}
+{{--            data-trigger-type="alwaysShow"--}}
+{{--            data-trigger-value=""--}}
+{{--            data-activation-type="alwaysActivated"--}}
+{{--            data-activation-value=""--}}
+{{--            data-deactivation-type="neverDeactivate"--}}
+{{--            data-deactivation-value=""--}}
+{{--            data-form-name="Website Lead Capture Form"--}}
+{{--            data-height="636"--}}
+{{--            data-layout-iframe-id="inline-MovOZJXA4LPpFx7fr0bi"--}}
+{{--            data-form-id="MovOZJXA4LPpFx7fr0bi"--}}
+{{--            title="Website Lead Capture Form"--}}
+{{--        >--}}
+{{--        </iframe>--}}
+{{--        <script src="https://link.enrollio.ai/js/form_embed.js"></script>--}}
+{{--    </div>--}}
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-gradient-black"></div>
