@@ -72,8 +72,8 @@
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-7.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-8.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-9.jpg" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-10.jpg" alt="staff headshot" class="img-fluid"></div>
-        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-11.jpg" alt="staff headshot" class="img-fluid"></div>
+{{--        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-10.jpg" alt="staff headshot" class="img-fluid"></div>--}}
+{{--        <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-11.jpg" alt="staff headshot" class="img-fluid"></div>--}}
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-12.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-14.jpg" alt="staff headshot" class="img-fluid"></div>
         <div class="d-flex justify-content-center my-2"><img src="/images/web-staff-18.jpg" alt="staff headshot" class="img-fluid"></div>

@@ -225,14 +225,15 @@ body {
 }
 
 .banner-wrap {
-    height: 200px;
+    height: 275px;
 }
 
 .banner {
     height: 100%;
-    background-image: url(/images/bg-red-flowers.jpg);
-    background-attachment: fixed;
-    background-position: center;
+    background-image: url(/images/banner-lcdc.jpeg);
+    /*background-image: url(/images/bg-red-flowers.jpg);*/
+    background-attachment: scroll;
+    background-position: 50% 65%;
     background-repeat: no-repeat;
     background-size: cover;
     /*filter: hue-rotate(-20deg);*/
