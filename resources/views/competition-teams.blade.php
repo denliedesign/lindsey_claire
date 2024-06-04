@@ -37,7 +37,7 @@
             {{--            </div>--}}
             <div class="col-sm-2"></div>
             <div class="col-sm">
-                <img src="/images/competition-graphic.jpg" alt="" class="img-fluid">
+{{--                <img src="/images/competition-graphic.jpg" alt="" class="img-fluid">--}}
                 {{--                <img src="/images/comp-h-1.jpg" alt="competition" class="img-fluid mb-4">--}}
                 {{--                <img src="/images/comp-h-3.jpg" alt="competition" class="img-fluid">--}}
             </div>
