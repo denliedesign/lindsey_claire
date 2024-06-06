@@ -10,7 +10,7 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center mt-5">Crystal Springs</h1>
+        <h1 class="text-center mt-5">Crystal Springs Summer Schedule</h1>
         <p class="text-center my-3">
             <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>
         </p>
@@ -35,17 +35,24 @@
 {{--        </p>--}}
 
         <!-- old fall schedule content -->
-{{--        <div class="d-flex justify-content-center my-4">--}}
-{{--            <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">Sign Up Today!</div></a>--}}
-{{--        </div>--}}
-{{--        <div class="my-3">--}}
-{{--            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
-{{--                <img src="/images/2_1.jpg" alt="classes" class="img-fluid my-1">--}}
-{{--                <img src="/images/3_1.jpg" alt="classes" class="img-fluid my-1">--}}
-{{--                <img src="/images/4_1.jpg" alt="classes" class="img-fluid my-1">--}}
-{{--                <img src="/images/5_1.jpg" alt="classes" class="img-fluid my-1">--}}
-{{--            </div>--}}
-{{--        </div>--}}
+        <h1 class="text-center mt-5">Crystal Springs Fall Schedule</h1>
+        <p class="text-center my-3">
+            <a href="mailto:crystalsprings@lcdanceco.com">crystalsprings@lcdanceco.com</a>
+        </p>
+        <div class="d-flex justify-content-center my-4">
+            <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="mx-3 shadow btn btn-lg btn-red btn-family">Register</div></a>
+            <a href="/images/24-25-cs-schedule.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mx-3">View PDF</div></a>
+        </div>
+        <div class="my-3">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                <img src="/images/24-25-cs-schedule_page-0001.jpg" alt="classes" class="img-fluid my-1">
+                <img src="/images/24-25-cs-schedule_page-0002.jpg" alt="classes" class="img-fluid my-1">
+                <img src="/images/24-25-cs-schedule_page-0003.jpg" alt="classes" class="img-fluid my-1">
+                <img src="/images/24-25-cs-schedule_page-0004.jpg" alt="classes" class="img-fluid my-1">
+                <img src="/images/24-25-cs-schedule_page-0005.jpg" alt="classes" class="img-fluid my-1">
+                <img src="/images/24-25-cs-schedule_page-0006.jpg" alt="classes" class="img-fluid my-1">
+            </div>
+        </div>
         <!-- end old fall schedule content -->
 
 {{--        <div class="row">--}}

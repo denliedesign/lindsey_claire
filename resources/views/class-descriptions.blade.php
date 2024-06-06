@@ -1,13 +1,14 @@
-<h1 class="text-center my-5">2023-2024 Season<br>Classes & Schedule</h1>
+<h1 class="text-center my-5">2024-2025 Season<br>Classes & Schedule</h1>
 <p class="text-center">
     <a href="https://app.thestudiodirector.com/lindseyclairedancecomp/portal.sd?page=Enroll&meth=search&SEASON=2016%2F2017" target="_blank">View Class Schedule</a>
 </p>
 <div class="my-3">
     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-        <img src="/images/2.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/3.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/4.jpg" alt="classes" class="img-fluid my-1">
-        <img src="/images/5.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/24-25-byram-schedule_page-0001.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/24-25-byram-schedule_page-0002.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/24-25-byram-schedule_page-0003.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/24-25-byram-schedule_page-0004.jpg" alt="classes" class="img-fluid my-1">
+        <img src="/images/24-25-byram-schedule_page-0005.jpg" alt="classes" class="img-fluid my-1">
     </div>
 </div>
 <p>
