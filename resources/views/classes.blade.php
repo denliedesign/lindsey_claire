@@ -78,44 +78,44 @@
                 <div class="gradient-splash p-4 my-4">
                     <h3>Monthly Tuition Rates</h3>
                     <table class="table text-white">
-                        <tr><td>30 minutes</td><td>$45</td></tr>
-                        <tr><td>45 minutes - 1 hour</td><td>$69</td></tr>
-                        <tr><td>1 hour 15 min</td><td>$104</td></tr>
-                        <tr><td>1 hour 30 min</td><td>$107</td></tr>
-                        <tr><td>1 hour 45  min</td><td>$110</td></tr>
-                        <tr><td>2 hours</td><td>$113</td></tr>
-                        <tr><td>2 hours 15 min</td><td>$127</td></tr>
-                        <tr><td>2 hours 30 min</td><td>$130</td></tr>
-                        <tr><td>2 hours 45 min</td><td>$133</td></tr>
-                        <tr><td>3 hours</td><td>$136</td></tr>
-                        <tr><td>3 hours 15 min</td><td>$145</td></tr>
-                        <tr><td>3 hours 30 min</td><td>$148</td></tr>
-                        <tr><td>3 hours 45 min</td><td>$151</td></tr>
-                        <tr><td>4 hours</td><td>$154</td></tr>
-                        <tr><td>4 hours 15 min</td><td>$169</td></tr>
-                        <tr><td>4 hours 30 min</td><td>$172</td></tr>
-                        <tr><td>4 hours 45 min</td><td>$175</td></tr>
-                        <tr><td>5 hours</td><td>$178</td></tr>
-                        <tr><td>5 hours 15 min</td><td>$193</td></tr>
-                        <tr><td>5 hours 30 min</td><td>$196</td></tr>
-                        <tr><td>5 hours 45 min</td><td>$199</td></tr>
-                        <tr><td>6 hours</td><td>$202</td></tr>
-                        <tr><td>6 hours 15 min</td><td>$212</td></tr>
-                        <tr><td>6 hours 30 min</td><td>$215</td></tr>
-                        <tr><td>6 hours 45 min</td><td>$218</td></tr>
-                        <tr><td>7 hours</td><td>$221</td></tr>
-                        <tr><td>7 hours 15 min</td><td>$231</td></tr>
-                        <tr><td>7 hours 30 min</td><td>$234</td></tr>
-                        <tr><td>7 hours 45 min</td><td>$237</td></tr>
-                        <tr><td>8 hours</td><td>$240</td></tr>
-                        <tr><td>8 hours 15 min</td><td>$250</td></tr>
-                        <tr><td>8 hours 30 min</td><td>$253</td></tr>
-                        <tr><td>8 hours 45 min</td><td>$256</td></tr>
-                        <tr><td>9 hours</td><td>$259</td></tr>
-                        <tr><td>9 hours 15 min</td><td>$269</td></tr>
-                        <tr><td>9 hours 30 min</td><td>$272</td></tr>
-                        <tr><td>9 hours 45 min</td><td>$275</td></tr>
-                        <tr><td>10 hours</td><td>$278</td></tr>
+                        <tr><td>30 minutes</td><td>$47</td></tr>
+                        <tr><td>45 minutes - 1 hour</td><td>$72</td></tr>
+                        <tr><td>1 hour 15 min</td><td>$107</td></tr>
+                        <tr><td>1 hour 30 min</td><td>$110</td></tr>
+                        <tr><td>1 hour 45  min</td><td>$113</td></tr>
+                        <tr><td>2 hours</td><td>$117</td></tr>
+                        <tr><td>2 hours 15 min</td><td>$130</td></tr>
+                        <tr><td>2 hours 30 min</td><td>$133</td></tr>
+                        <tr><td>2 hours 45 min</td><td>$136</td></tr>
+                        <tr><td>3 hours</td><td>$140</td></tr>
+                        <tr><td>3 hours 15 min</td><td>$148</td></tr>
+                        <tr><td>3 hours 30 min</td><td>$151</td></tr>
+                        <tr><td>3 hours 45 min</td><td>$154</td></tr>
+                        <tr><td>4 hours</td><td>$159</td></tr>
+                        <tr><td>4 hours 15 min</td><td>$172</td></tr>
+                        <tr><td>4 hours 30 min</td><td>$175</td></tr>
+                        <tr><td>4 hours 45 min</td><td>$178</td></tr>
+                        <tr><td>5 hours</td><td>$183</td></tr>
+                        <tr><td>5 hours 15 min</td><td>$196</td></tr>
+                        <tr><td>5 hours 30 min</td><td>$199</td></tr>
+                        <tr><td>5 hours 45 min</td><td>$202</td></tr>
+                        <tr><td>6 hours</td><td>$208</td></tr>
+                        <tr><td>6 hours 15 min</td><td>$215</td></tr>
+                        <tr><td>6 hours 30 min</td><td>$218</td></tr>
+                        <tr><td>6 hours 45 min</td><td>$221</td></tr>
+                        <tr><td>7 hours</td><td>$227</td></tr>
+                        <tr><td>7 hours 15 min</td><td>$234</td></tr>
+                        <tr><td>7 hours 30 min</td><td>$237</td></tr>
+                        <tr><td>7 hours 45 min</td><td>$240</td></tr>
+                        <tr><td>8 hours</td><td>$247</td></tr>
+                        <tr><td>8 hours 15 min</td><td>$253</td></tr>
+                        <tr><td>8 hours 30 min</td><td>$256</td></tr>
+                        <tr><td>8 hours 45 min</td><td>$259</td></tr>
+                        <tr><td>9 hours</td><td>$267</td></tr>
+                        <tr><td>9 hours 15 min</td><td>$272</td></tr>
+                        <tr><td>9 hours 30 min</td><td>$275</td></tr>
+                        <tr><td>9 hours 45 min</td><td>$278</td></tr>
+                        <tr><td>10 hours</td><td>$285</td></tr>
                     </table>
                 </div>
             </div>
