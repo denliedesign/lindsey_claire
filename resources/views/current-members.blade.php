@@ -22,6 +22,8 @@
                     <br><br>
                     <a href="https://shorturl.at/rsXYd" target="_blank">24/25 Studio Calendar</a>
                     <br><br>
+                    <a href="/images/dress-code-24.jpeg" target="_blank">24/25 Dress Code</a>
+                    <br><br>
                     <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">Order Dancewear</a>
                 </p>
 {{--                <p class="text-center text-uppercase">--}}
