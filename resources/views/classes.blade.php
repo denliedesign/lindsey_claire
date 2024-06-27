@@ -16,14 +16,14 @@
 {{--                    <a href="/tuition">See Tuition Rates & Details</a>--}}
 {{--                </p>--}}
 {{--            </div>--}}
-            <div class="">
-                <p class="text-center rounded shadow p-3" style="height: 100%;">
-                    <strong>Dresscode</strong><br>
-                    <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">Purchase Your Dancewear At Our Online Store</a>
-                    <br>
-                    You may purchase your Classwear from LCDC and get Classwear at a discounted rate from our website. We can size your child at one of our open houses or during the first week of class.
-                </p>
-            </div>
+{{--            <div class="">--}}
+{{--                <p class="text-center rounded shadow p-3" style="height: 100%;">--}}
+{{--                    <strong>Dresscode</strong><br>--}}
+{{--                    <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">Purchase Your Dancewear At Our Online Store</a>--}}
+{{--                    <br>--}}
+{{--                    You may purchase your Classwear from LCDC and get Classwear at a discounted rate from our website. We can size your child at one of our open houses or during the first week of class.--}}
+{{--                </p>--}}
+{{--            </div>--}}
             <div class="">
                 <p class="text-center rounded shadow p-3" style="height: 100%;">
                     <strong>Availability</strong><br>
