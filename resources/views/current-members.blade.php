@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="text-center my-5">Current Members</h1>
         <div class="row">
-            <div class="col-sm d-flex align-items-center justify-content-center">
+            <div class="col-md d-flex justify-content-center">
                 <p>
                     <a href="https://bit.ly/4eb8ZZI" target="_blank">24/25 ACH Form (automatic draft form)</a>
                     <br><br>
@@ -22,8 +22,8 @@
                     <br><br>
                     <a href="https://shorturl.at/rsXYd" target="_blank">24/25 Studio Calendar</a>
                     <br><br>
-                    <a href="/images/dress-code-24.jpeg" target="_blank">24/25 Dress Code</a>
-                    <br><br>
+{{--                    <a href="/images/dress-code-24.jpeg" target="_blank">24/25 Dress Code</a>--}}
+{{--                    <br><br>--}}
                     <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">Order Dancewear</a>
                 </p>
 {{--                <p class="text-center text-uppercase">--}}
@@ -44,7 +44,8 @@
 {{--                    <a href="https://www.shopnimbly.com/lcdanceco" target="_blank">ORDER DANCEWEAR</a>--}}
 {{--                </p>--}}
             </div>
-            <div class="col-sm">
+            <div class="col-md">
+                <img src="/images/dress-code-24.jpeg" alt="dress code" class="img-fluid">
                 <img src="/images/dance-store.jpg" alt="dance store" class="img-fluid" style="max-width: 522px; width: 100%;">
                 <img src="/images/revolution-dancewear.jpg" alt="dancewear that gives back" class="img-fluid" style="max-width: 522px; width: 100%;">
             </div>
