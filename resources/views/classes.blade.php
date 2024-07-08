@@ -49,9 +49,9 @@
                 </p>
             </div>
         </div>
-        <div class="d-flex justify-content-center mt-5">
-            <img src="/images/dress-code.png" alt="dress code" class="img-fluid">
-        </div>
+{{--        <div class="d-flex justify-content-center mt-5">--}}
+{{--            <img src="/images/dress-code.png" alt="dress code" class="img-fluid">--}}
+{{--        </div>--}}
     </div>
 
     <div class="container">
